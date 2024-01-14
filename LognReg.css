@@ -1,0 +1,41 @@
+.outerdiv{
+    margin: auto;
+    width: 530px;
+    height: 80%;
+    border: 1px solid lightslategray;
+    border-radius: 10px;
+    background-color: rgb(197, 210, 211);
+}
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslateblue;
+}
+label,input,p,.btn{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+input{
+    margin-top: 10px;
+    height: 30px;
+    width:250px;
+    border: 1px solid darkslategray;
+}
+fieldset{
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkslategray;
+    color: white;
+    margin-top: 10px;
+}
+

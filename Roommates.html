@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roommates</title>
+    <link rel="stylesheet" href="./Roommates.css">
+    <script src="./Roommates2.js"></script>
+</head>
+<body>
+    <div>
+        <h2 id="header">Roommates</h2>
+        <button onclick="getAllUsers(api_url)" id="All">Get all</button>
+        <button><a href="./NewUser.html">Create user</a></button><br>
+        <label>Enter full name :</label>
+        <input type="text" id="name">
+        <button onclick="searchUsingName(api_url)" id="search">search</button><br>
+        <label>Enter city :</label>
+        <input type="text" id="city">
+        <button onclick="searchUsingCity(api_url)" id="search">search</button><br>
+        <table id="matesTable"></table>
+    </div>
+</body>
+</html>

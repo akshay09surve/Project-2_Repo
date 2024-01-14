@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Roommates.css">
+    <script src="./Roommates2.js"></script>
+</head>
+<body>
+    <div id="addUser">
+        <label>Enter name :</label><br>
+        <input type="text" id="name"><br>
+        <label>Enter city :</label><br>
+        <input type="text" id="city"><br>
+        <label>Enter branch :</label><br>
+        <input type="text" id="branch"><br>
+        <label>Enter contact :</label><br>
+        <input type="number" id="contact"><br><br>
+        <button onclick="createUser()">Add user</button>
+        <hr>
+        <button onclick="getAllUsers(api_url)" id="All">Get All</button>
+        <button onclick="deleteUser()">Delete user</button><br><br>
+        <div id="confirm"></div>
+        <table id="matesTable"></table>
+    </div>
+</body>
+</html>

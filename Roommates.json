@@ -1,0 +1,153 @@
+{
+  "Roommates": [
+    {
+      "name": "Akshay A. Surve",
+      "city": "Ratnagiri",
+      "branch": "Civil",
+      "contact": "9168270670",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Pratik Londhe",
+      "city": "Solapur",
+      "branch": "Mechanical",
+      "contact": 8485096660
+    },
+    {
+      "name": "Ameya A. Surve",
+      "city": "Mumbai",
+      "branch": "HM",
+      "contact": "9518534448",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Yash Todankar",
+      "city": "Ratnagiri",
+      "branch": "Civil",
+      "contact": 7385218609
+    },
+    {
+      "id": 5,
+      "name": "Gunjan Malgundkar",
+      "city": "Ratnagiri",
+      "branch": "Electronis & telecom",
+      "contact": 8766597201
+    },
+    {
+      "name": "Aditya Raghuvanshi",
+      "city": "Mumbai",
+      "branch": "MSC Physics",
+      "contact": "9767975386",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Suraj Pawar",
+      "city": "Pune",
+      "branch": "Computer science",
+      "contact": 9922056713
+    },
+    {
+      "id": 8,
+      "name": "Suyog Chitte",
+      "city": "Pune",
+      "branch": "Mechanical",
+      "contact": 8999193875
+    },
+    {
+      "id": 9,
+      "name": "Shubham Rasal",
+      "city": "Pune",
+      "branch": "Computer science",
+      "contact": 9359940129
+    },
+    {
+      "id": 10,
+      "name": "Suyash Sathe",
+      "city": "Pune",
+      "branch": "Computer science",
+      "contact": 7843021096
+    },
+    {
+      "id": 11,
+      "name": "Dhanraj Shinde",
+      "city": "Jalgaon",
+      "branch": "Mechanical",
+      "contact": 7588647836
+    },
+    {
+      "id": 12,
+      "name": "Chaitanya Deshmukh",
+      "city": "Solapur",
+      "branch": "Mechanical",
+      "contact": 9423391248
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Akshay",
+      "lastname": "Surve",
+      "username": "akshaysurve.sv@gmail.com",
+      "password": "user@123"
+    },
+    {
+      "firstname": "ameya",
+      "lastname": "surve",
+      "username": "ameyasurve730@gmail.com",
+      "password": "ameya@123",
+      "id": 2
+    },
+    {
+      "firstname": "yash",
+      "lastname": "todankar",
+      "username": "yashtodankar015@gmail.com",
+      "password": "yash@123",
+      "id": 3
+    },
+    {
+      "firstname": "Pratik",
+      "lastname": "Londhe",
+      "username": "pratiklondhe@gmail.com",
+      "password": "pratik@123",
+      "id": 4
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Raghuvanshi",
+      "username": "adityaraghuvanshi@gmail.com",
+      "password": "aditya@123",
+      "id": 5
+    },
+    {
+      "firstname": "Suraj",
+      "lastname": "Pawar",
+      "username": "surajpawar@gmail.com",
+      "password": "suraj@123",
+      "id": 6
+    },
+    {
+      "firstname": "Suyog",
+      "lastname": "Chitte",
+      "username": "suyogchitte@gmail.com",
+      "password": "suyog@123",
+      "id": 7
+    },
+    {
+      "firstname": "Shubham ",
+      "lastname": "Rasal",
+      "username": "shubhamrasal@gmail.com",
+      "password": "rasal@123",
+      "id": 8
+    },
+    {
+      "firstname": "Dhanraj",
+      "lastname": "Shinde",
+      "username": "shindemama@gmail.com",
+      "password": "shinde@123",
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+#matesTable,tr,th,td{
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 10px;
+}
+th{
+    background-color: lightslategray;
+}
+button{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
